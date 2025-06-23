@@ -18,6 +18,7 @@ func TestAddInBulk(t *testing.T) {
 		{2, 3, 5},
 		{2, 4, 6},
 		{5, 5, 10},
+		{10, 15, 25},
 	}
 
 	for _, test := range tests {
